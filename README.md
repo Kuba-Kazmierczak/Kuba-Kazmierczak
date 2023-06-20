@@ -19,22 +19,20 @@ Here are some ideas to get you started:
 -->
 
 ## :telescope: I’m currently working on ...
-* Learning JAVA, MySQL and Angular via project with group of friends by:
-* Creating 3 layers app that includes database technology- MySQL, backend - JAVA and frontend- Angular
+* Learning JAVASCRIPT and REACT via project with group of friends by:
 * Development of good practices in programming
 * Jira and GitHub to recreate working environment (including code reviews by more experienced colleagues and remote work)
 
 
 ## :zap: Technologies I am familiar with
-* **JAVA**, 
 * **JAVASCRIPT**, 
+* **JAVA**, 
 * **ES6**, 
-* **ANGULAR**, 
+* **REACT**, 
 * **HTML**, 
 * **CSS**, 
 * **GIT**, 
 * **JIRA**, 
-* **KANBAN**, 
 * **INTELIJ**
 * TEST-DRIVEN DEVELOPMENT, 
 * NPM,  
