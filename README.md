@@ -1,6 +1,6 @@
 ### Hi there 👋
-Recently I decided that I want to change my professional career to IT. I have been preparingfor this for some time after completing the
-Infoshare Academy course. I am currently learning and improving my web developer skills as a self-taught Java-related tech with the help
+Recently I decided that I want to change my professional career to IT. I have been preparing for this for some time after completing the
+Infoshare Academy course. I am currently learning and improving my web developer skills as a self-taught Javascript-related tech with the help
 of Udemy and more experienced colleauges . I deeply believe that my perseverance will help me achieve this goal.
 
 <!--
@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 -->
 
 ## :telescope: I’m currently working on ...
-* Learning JAVASCRIPT and REACT via project with group of friends by:
+* Learning JAVASCRIPT and REACT
 * Development of good practices in programming
 * Jira and GitHub to recreate working environment (including code reviews by more experienced colleagues and remote work)
 
 
 ## :zap: Technologies I am familiar with
 * **JAVASCRIPT**, 
-* **JAVA**, 
 * **ES6**, 
 * **REACT**, 
 * **HTML**, 
@@ -37,5 +36,3 @@ Here are some ideas to get you started:
 * TEST-DRIVEN DEVELOPMENT, 
 * NPM,  
 * VISUAL STUDIO CODE, 
-* INTELIJ, 
-* DESIGN PATTERNS (DAO, CHAINING CONSTRUCTORS, OBSERVER)
